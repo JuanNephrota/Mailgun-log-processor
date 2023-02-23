@@ -1,0 +1,5 @@
+/Users/pmarsh/Projects/CertifidMailgunlogs/CertifidMailgunlogs/obj/Debug/net6.0/CertifidMailgunlogs.csproj.AssemblyReference.cache
+/Users/pmarsh/Projects/CertifidMailgunlogs/CertifidMailgunlogs/obj/Debug/net6.0/CertifidMailgunlogs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pmarsh/Projects/CertifidMailgunlogs/CertifidMailgunlogs/obj/Debug/net6.0/CertifidMailgunlogs.AssemblyInfoInputs.cache
+/Users/pmarsh/Projects/CertifidMailgunlogs/CertifidMailgunlogs/obj/Debug/net6.0/CertifidMailgunlogs.AssemblyInfo.cs
+/Users/pmarsh/Projects/CertifidMailgunlogs/CertifidMailgunlogs/obj/Debug/net6.0/CertifidMailgunlogs.csproj.CoreCompileInputs.cache
